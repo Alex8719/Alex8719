@@ -1,21 +1,18 @@
-<p> ola, me chamo Alex Hiury sou um desenvolvedor front-end. é aqui que passo boa parte do meu tempo trabalhando no que posso melhorar mais.</p>
+oi👋
+ola, me chamo Alex Hiury sou um desenvolvedor front-end. é aqui que passo boa parte do meu tempo trabalhando no que posso melhorar mais.
 
 🔭 hoje trabalho como freelancer adiquirindo mais experincia na are de front-end.
 🌱 estou cursando no dev club,o dev club e uma formaçao de programadores.
-
-
 conecte-se comigo:
 
 LinkedIn
 
-![image](https://github.com/user-attachments/assets/4567ca72-550e-4cef-9a13-f8a2eba3a7f4)
-
-
 💻 Tech Stack:
+CSS3 JavaScript HTML5
+
+📊 GitHub Stats:
 
 
 
 
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
