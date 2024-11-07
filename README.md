@@ -2,9 +2,14 @@
 
 🔭 hoje trabalho como freelancer adiquirindo mais experincia na are de front-end.
 🌱 estou cursando no dev club,o dev club e uma formaçao de programadores.
+
+
 conecte-se comigo:
 
 LinkedIn
+
+![image](https://github.com/user-attachments/assets/4567ca72-550e-4cef-9a13-f8a2eba3a7f4)
+
 
 💻 Tech Stack:
 
